@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kupangsport.github.io/olahraga/sitemap.xml
